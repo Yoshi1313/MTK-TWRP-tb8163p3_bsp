@@ -1,6 +1,6 @@
 https://github.com/Yoshi1313/MTK-TWRP-tb8163p3_bsp
 
-# <div align="center">Just upload your recovery.bin on Github to compile a TWRP suitable for your tb8163p3_bsp device with one click!</div>
+# <div align="center">Just upload your recovery.img on Github to compile a TWRP suitable for your tb8163p3_bsp device with one click!</div>
 
 ## Usage:
 ### 1、Fork this Repo
